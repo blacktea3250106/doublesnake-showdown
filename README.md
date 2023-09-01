@@ -91,7 +91,7 @@ Enjoy the thrill of the DoubleSnake Showdown!
 
 ## Authors
 
-- [blacktea3250106]
+- [blacktea3250106](https://github.com/blacktea3250106)
 
 ## License
 

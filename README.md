@@ -67,7 +67,7 @@ Before you can enjoy the DoubleSnake Showdown, ensure that you have the followin
 ## Objective
 
 - Collect the randomly generated food items to increase your score.
-- Beware of obstacles! Collisions with obstacles, the wall, your own body, or your opponent's body will result in the end of the game.
+- Beware of bomb! Collisions with bomb, the wall, your own body, or your opponent's body will result in the end of the game.
 
 ## Death Mechanisms
 
